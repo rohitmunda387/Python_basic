@@ -1,2 +1,3 @@
 # Python_basic
-Simple calculator and operators
+--Simple calculator
+--Operators
